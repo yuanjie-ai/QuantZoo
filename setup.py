@@ -17,7 +17,7 @@ with open('requirements.txt', encoding='utf-8') as f:
 
 setup(
     author="Betterme",
-    author_email='yuanjie.huatai.com',
+    author_email='yuanjie@huatai.com',
     python_requires='>=3.6',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',

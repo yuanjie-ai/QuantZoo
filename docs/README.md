@@ -26,5 +26,6 @@ import quantzoo
 ![量化投资系统](https://tva1.sinaimg.cn/large/e6c9d24egy1h1dunn77maj20e30aoaa8.jpg)
 
 
+[投资策略](./投资策略)
 ---
 # TODO
