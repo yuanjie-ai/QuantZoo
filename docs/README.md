@@ -18,6 +18,7 @@ pip install -U quantzoo
 ```
 import quantzoo
 ```
+
 # 个人财富课
 ![个人财富课](https://tva1.sinaimg.cn/large/e6c9d24egy1h1dum2e0xij20ef0ctdgw.jpg)
 
